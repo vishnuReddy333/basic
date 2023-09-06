@@ -1,3 +1,3 @@
 # basic
-author-vishnu reddy
-html basics
+#author-vishnu reddy
+#html basics
